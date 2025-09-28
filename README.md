@@ -1,4 +1,4 @@
 # newCode-demo
 This is my first repository
 <br>
-Author name - Pavan C
+Author name - Pavan (chandru)
